@@ -1,0 +1,7 @@
+children:
+  - "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-1c4bd6e13d3c15e578fa"
+datasets:
+  - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-1c4bd6e13d3c15e578fa"
+    label: "Some Dataset"
+    children:
+      - "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#publication340"

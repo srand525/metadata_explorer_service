@@ -1,6 +1,6 @@
 {
   "name": "metadata_explorer_service",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A JupyterLab extension.",
   "keywords": [
     "jupyter",
@@ -33,7 +33,7 @@
   "dependencies": {
     "@jupyterlab/application": "^1.0.5",
     "@jupyterlab/apputils": "^1.0.5",
-    "@jupyterlab/metadata-extension": "^3.0.0"
+    "@jupyterlab/metadata-extension": "^1.5.0"
   },
   "devDependencies": {
     "rimraf": "^2.6.1",

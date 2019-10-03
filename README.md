@@ -10,7 +10,7 @@ A JupyterLab extension.
 ## Installation
 
 ```bash
-jupyter labextension install metadata_explorer_service
+jupyter labextension install metadata_explorer_service @jupyterlab/dataregistry-extension @jupyterlab/metadata-extension
 ```
 
 ## Development
